@@ -1,7 +1,7 @@
 # Simple Unity Game
 
 ### Demo gameplay
-![](/game-test/screen-1.gif)
+![](/game-test/screen-11.gif)
 
 
 ## Implementation details
